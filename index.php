@@ -54,7 +54,7 @@ $test_cases = [
         <aside class="w-64 bg-white border-r border-slate-200 flex flex-col hidden md:flex">
             <!-- Header Logo -->
             <div class="h-16 flex items-center px-6 border-b border-slate-100 font-bold text-lg text-indigo-600 tracking-tight">
-                ✨ AppTest Studio
+                ✨ AppTest Studio Version 2
             </div>
             <!-- Main Navigation Links -->
             <nav class="flex-1 p-4 space-y-1">
